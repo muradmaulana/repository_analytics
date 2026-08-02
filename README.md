@@ -1,4 +1,4 @@
-Repository Analytics v0.4.0 RC1 for SLiMS 9.7.x
+Repository Analytics v0.1.0 for SLiMS 9.7.x
 
 Fitur:
 
